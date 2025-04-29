@@ -1,5 +1,33 @@
 @charset "UTF-8";
 
+@font-face {
+    font-family: 'National Park';
+    src: url('./fonts/NationalPark-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+    @font-face {
+    font-family: 'National Park';
+    src: url('./fonts/NationalPark-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    }
+
+    @font-face {
+    font-family: 'Poppins';
+    src: url('./fonts/Poppins-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+    @font-face {
+    font-family: 'Poppins';
+    src: url('./fonts/Poppins-Regular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    }
+
 h1,h2, h3{
     font-family: "National Park", sans-serif;
 }
